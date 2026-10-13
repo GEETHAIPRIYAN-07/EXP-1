@@ -55,26 +55,30 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
- <img width="817" height="1600" alt="WhatsApp Image 2026-10-13 at 4 08 52 PM" src="https://github.com/user-attachments/assets/386db95b-d30f-47c0-a342-4639aee45e7e" />
+ <img width="817" height="1506" alt="image" src="https://github.com/user-attachments/assets/6e1fd583-fe07-44c2-8cdb-ac42a566b280" />
+
 
 
 
 
 b.  KCL:
-<img width="903" height="1600" alt="image" src="https://github.com/user-attachments/assets/baf5ecc0-6f5d-4026-918d-c0803d53cafd" />
+<img width="903" height="1482" alt="image" src="https://github.com/user-attachments/assets/124dc29e-0ead-4c28-8b73-021e4c7a0079" />
+
 
 
 
 Tabulation:
 
 a.   KVL:
-<img width="1378" height="937" alt="image" src="https://github.com/user-attachments/assets/500dee2c-66de-4b59-876b-2ddff829d5ca" />
+<img width="1115" height="717" alt="image" src="https://github.com/user-attachments/assets/5d723634-d0e8-4276-9755-5fd3590c5b74" />
+
 
 
 
 b.  KCL:
 
-<img width="1530" height="1008" alt="image" src="https://github.com/user-attachments/assets/15258140-94fb-433a-98ff-cc52874faab8" />
+<img width="1465" height="855" alt="image" src="https://github.com/user-attachments/assets/e9c3e1b3-4c55-4569-96ea-447d29c6e1c0" />
+
 
 
 
